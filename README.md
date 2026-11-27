@@ -29,9 +29,10 @@ Todos los datos de la empresa (dirección, teléfono, correo y NIF) son ficticio
 firebase.json     Configuración de Firebase Hosting y cabeceras de caché
 .firebaserc       A qué proyecto de Firebase se despliega
 public/           Todo lo que se publica
-  index.html      La web completa (estilos y código incluidos)
-  logo-oscuro.png Logo para fondo oscuro
-  favicon...      Iconos de pestaña y de móvil
+  index.html           La web completa (estilos y código incluidos)
+  logo-horizontal.png  Logo para fondo claro (cabecera)
+  logo-oscuro.png      Logo para fondo oscuro (pie)
+  favicon...           Iconos de pestaña y de móvil
 ```
 
 ## Cómo desplegarlo
